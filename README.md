@@ -99,12 +99,8 @@ student-grade-manager/
 
 ## 👨‍💻 Author
 
-**Harsh Raj**
+Harsh Raj
 Java Programming Intern — CodeAlpha
 Student ID: CA/DF1/76768
 
 ---
-
-## 📄 License
-
-This project is submitted as part of the **CodeAlpha Internship Program**.
